@@ -9,6 +9,8 @@
 
 </div>
 
+我们深耕于UI/UX设计与全栈开发，打造用户喜爱、设计出众的精致应用。无论是孵化您心中的‘小而美’项目，还是承接企业的商业合作，我们都以同样的专注，陪伴创意完整落地。
+
 ## 关于我们
 
 **REFLUX · 即流** 是一家创造精致数字产品的软件工作室，深耕于 UI/UX 设计与全栈开发，打造用户喜爱、设计出众的精致应用。
@@ -40,14 +42,3 @@
 
 - 🌐 官网：[https://reflux.studio](https://reflux.studio)
 - 💼 商务合作：business@reflux.studio
-- 📧 通过官网联系我们
-
----
-
-<div align="center">
-
-**让创意，即刻开始流动**
-
-© 2025 REFLUX. All rights reserved.
-
-</div>
